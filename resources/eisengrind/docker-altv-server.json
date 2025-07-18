@@ -1,7 +1,0 @@
-{
-  "title": "alt:V Server Docker image",
-  "url": "https://github.com/eisengrind/docker-altv-server",
-  "description": "The unofficial alt:V server Docker image",
-  "tags": ["tool"],
-  "cover": "https://i.imgur.com/FqZjj7p.jpg"
-}

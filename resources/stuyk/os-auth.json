@@ -1,7 +1,0 @@
-{
-  "title": "[JS] OS - Register / Login",
-  "url": "https://github.com/Stuyk/altv-os-auth",
-  "description": "Very simple decoupled authentication resource that uses MongoDB, Vue, and PKDBF2 for Encryption.",
-  "tags": ["javascript", "interface", "authorization"],
-  "cover": "https://i.imgur.com/p4nJGxE.jpeg"
-}
