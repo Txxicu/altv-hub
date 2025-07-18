@@ -1,0 +1,8 @@
+{
+  "title": "OpenDoor5V",
+  "url": "https://github.com/Stuyk/altv-quickstart",
+  "description": "You will be able to open the trunk.",
+  "tags": ["javascript", "vehicle"],
+  "cover": "https://i.imgur.com/CrpG9L2.png",
+  "cli": false
+}
